@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RappidAndroidDemo</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_apps">AppsActivity</string>
+    <string name="title_activity_app_details">app Details</string>
+    <string name="summary">Summary</string>
+    <string name="no_connection">No internet connection</string>
+    <string name="no_connection_message">you have no internet connection, you can try again or continue offline</string>
+    <string name="yes">try again</string>
+    <string name="no">continue offline</string>
+    <string name="title_activity_app">appActivity</string>
+</resources>

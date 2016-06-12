@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <TextView
+        android:id="@+id/category_name"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/item_category_height"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:background="?android:attr/selectableItemBackground"
+        />
+
+</FrameLayout>
